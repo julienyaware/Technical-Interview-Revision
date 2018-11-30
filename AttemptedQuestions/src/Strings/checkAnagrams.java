@@ -47,8 +47,8 @@ public class checkAnagrams {
     /* Driver program to test to print printDups*/
     public static void main(String args[])
     {
-        char str1[] = ("geeksforgeeks").toCharArray();
-        char str2[] = ("forgeeksgeeks").toCharArray();
+        char str1[] = ("aca").toCharArray();
+        char str2[] = ("aac").toCharArray();
 
         if ( areAnagram(str1, str2) )
             System.out.println("The two strings are" +
