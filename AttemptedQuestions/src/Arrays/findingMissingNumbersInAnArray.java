@@ -6,7 +6,7 @@ public class findingMissingNumbersInAnArray {
    /**
             * Java program to find missing elements in a Integer array containing
  * numbers from 1 to 100.
-            
+
  */
 
 
